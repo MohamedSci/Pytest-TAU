@@ -1,0 +1,7 @@
+[pytest]
+markers=
+    Accumlator
+    math
+
+testpaths= tests    
+generate_report_on_test = True
